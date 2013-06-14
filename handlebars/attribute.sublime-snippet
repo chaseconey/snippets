@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{ ${1} }}$2
+]]></content>
+	<tabTrigger>atr</tabTrigger>
+	<scope>text.html.handlebars,text.html.basic source.js.embedded.html, text.html.twig source.js.embedded.html</scope>
+</snippet>

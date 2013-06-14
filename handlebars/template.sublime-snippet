@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<template name="${1}">
+	$2
+</template>
+]]></content>
+	<tabTrigger>temp</tabTrigger>
+	<scope>text.html.handlebars,text.html.basic source.js.embedded.html, text.html.twig source.js.embedded.html</scope>
+</snippet>
