@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 \$bean->load_relationship('$1');
-${2:relationshipIds} = \$bean->$1->get();
+\$${2:relationshipIds} = \$bean->$1->get();
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>get_rel</tabTrigger>
